@@ -12,6 +12,28 @@
 
 ---
 
+
+## Maintainer
+
+This public archive index is maintained by **Russell Nomer / Russell Nomer Consulting**.
+
+- Security policy and vulnerability reporting: see [SECURITY.md](SECURITY.md)
+- Related analysis product (private): [Epstein-Files-Analyst](https://github.com/russellnomer/Epstein-Files-Analyst)
+- Contact: help@russellnomerconsulting.com
+
+## Repository layout
+
+| Path | Purpose |
+| --- | --- |
+| `README.md` | Dataset index, download options, magnets, hashes |
+| `ARCHIVAL_DISCLAIMER.md` | Legal / archival disclaimer |
+| `STRUCTURE.md` | How the archive is organized |
+| `AnalysisEngine` | Helper script/tooling for local analysis |
+| `Torrent Files/` | Torrent sidecars for community distribution |
+| `notes/` | Working notes from the indexing effort |
+
+---
+
 ## <a id="dataset-status-dashboard"></a>Dataset Status Dashboard
 
 Quick availability overview of all currently indexed datasets:
